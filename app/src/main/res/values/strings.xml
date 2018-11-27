@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab2intent</string>
+    <string name="hint_message">Enter a message</string>
+    <string name="send">Send</string>
+    <string name="message">Message</string>
+    <string name="close">Close</string>
+    <string name="error_message">Please ente a message</string>
+</resources>
